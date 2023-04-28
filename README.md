@@ -19,8 +19,8 @@ Pure node.js ( >=8 ) implementation of [EBICS](https://en.wikipedia.org/wiki/Ele
 
 The client is aimed to be 100% [ISO 20022](https://www.iso20022.org) compliant, and supports the complete initializations process ( INI, HIA, HPB orders ) and HTML letter generation.
 
-
 ## Supported Banks
+
 The client is currently tested and verified to work with the following banks:
 
 * [Credit Suisse (Schweiz) AG](https://www.credit-suisse.com/ch/en.html)
@@ -31,14 +31,14 @@ The client is currently tested and verified to work with the following banks:
 * [Bank GPB AO](https://gazprombank.ru/)
 * [J.P. Morgan](https://www.jpmorgan.com/)
 
-
 ## Inspiration
 
 The basic concept of this library was inspired by the [EPICS](https://github.com/railslove/epics) library from the Railslove Team.
 
-
 ## Copyright
 
-Copyright: Dimitar Nanov, 2019-2022.  
+Copyright: Dimitar Nanov, 2019-2022.
 Licensed under the [MIT](LICENSE) license.
 
+
+Forked by pac421
